@@ -118,6 +118,5 @@ Horizen.js مرخصة بموجب ترخيص MIT. انظر ملف [LICENSE](LICEN
 
 ## شكر وتقدير
 
-تم تطوير Horizen.js بواسطة Manus AI والمستخدم، بهدف إحداث ثورة في أداء الـ API في تطبيقات JavaScript.
-
+تم تطوير Horizen.js بواسطةMohamedوالمستخدم، بهدف إحداث ثورة في أداء الـ API في تطبيقات JavaScript.
 ---
