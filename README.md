@@ -1,6 +1,6 @@
 # Horizen.js: مكتبة API عالية الأداء لـ JavaScript
 
-![Horizen.js Logo](https://via.placeholder.com/150x50?text=Horizen.js)
+![Horizen.js Logo](./horizenjs_logo.png)
 
 Horizen.js هي مكتبة JavaScript قوية مصممة لتسريع استدعاءات الـ API بشكل كبير من خلال تطبيق تقنيات متقدمة مثل **تجميع الطلبات (Request Batching)** و **تجميد الطلبات (Request Freezing)**. تهدف هذه المكتبة إلى تحسين أداء تطبيقات الويب والخادم، وتقليل الحمل على الخوادم، وتوفير تجربة مستخدم أكثر سلاسة.
 
@@ -115,6 +115,10 @@ horizen --help
 ## الترخيص
 
 Horizen.js مرخصة بموجب ترخيص MIT. انظر ملف [LICENSE](LICENSE) لمزيد من التفاصيل.
+
+## الدعم
+
+للدعم الفني والاستفسارات، يرجى التواصل معنا عبر البريد الإلكتروني: [support@theunitynews.com](mailto:support@theunitynews.com)
 
 ## شكر وتقدير
 
