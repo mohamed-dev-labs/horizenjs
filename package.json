@@ -1,0 +1,31 @@
+{
+  "name": "horizen.js",
+  "version": "1.0.0",
+  "description": "A high-performance API library for JavaScript with request batching and freezing capabilities.",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "dev": "tsup src/index.ts --format cjs,esm --watch --dts",
+    "lint": "eslint src/**/*.ts",
+    "test": "jest"
+  },
+  "keywords": [
+    "api",
+    "javascript",
+    "batching",
+    "performance",
+    "nextjs",
+    "nodejs",
+    "horizen"
+  ],
+  "author": "Manus AI & User",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "tsup": "^7.0.0",
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0"
+  }
+}

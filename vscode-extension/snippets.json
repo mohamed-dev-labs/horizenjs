@@ -1,0 +1,23 @@
+{
+  "Horizen Client Init": {
+    "prefix": "hz-init",
+    "body": [
+      "import { HorizenClient } from \"horizen.js\";",
+      "",
+      "const hz = new HorizenClient(${1:50});",
+      "$0"
+    ],
+    "description": "Initialize Horizen.js Client"
+  },
+  "Horizen Request": {
+    "prefix": "hz-req",
+    "body": [
+      "const response = await hz.request(\"${1:url}\", {",
+      "  method: \"${2:GET}\",",
+      "  body: ${3:null}",
+      "});",
+      "$0"
+    ],
+    "description": "Send a batched request using Horizen.js"
+  }
+}
